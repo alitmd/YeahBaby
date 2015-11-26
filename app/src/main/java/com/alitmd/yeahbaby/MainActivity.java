@@ -10,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 //apulssh
+// jokosusilo
 public class MainActivity extends AppCompatActivity {
 
     @Override
