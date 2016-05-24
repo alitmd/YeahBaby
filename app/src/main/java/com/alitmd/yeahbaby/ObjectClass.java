@@ -6,4 +6,5 @@ package com.alitmd.yeahbaby;
 public class ObjectClass {
     int id;
     String name;
+    String address;
 }
